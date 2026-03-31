@@ -1,0 +1,1 @@
+This folder is maded for collecting documents. Don't remove this folder eventhough it is empty.
